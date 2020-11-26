@@ -1,0 +1,4 @@
+C:\Users\55119\Desktop\c#\tabuada\obj\Debug\netcoreapp3.1\tabuada.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\c#\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\c#\tabuada\obj\Debug\netcoreapp3.1\tabuada.AssemblyInfo.cs
+C:\Users\55119\Desktop\c#\tabuada\obj\Debug\netcoreapp3.1\tabuada.csproj.CoreCompileInputs.cache
